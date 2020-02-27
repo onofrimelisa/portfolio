@@ -1,0 +1,28 @@
+section#tecnologias {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+section#about {
+    padding-bottom: 0px;
+    padding-top: 50px !important;
+    margin-top: 20px;
+}
+
+section#contact {
+    padding-bottom: 50px !important;
+    padding-top: 50px !important;
+    margin-top: 20px;
+}
+
+img.logo-principal {
+    border-radius: 50%;
+    height: 215px;
+    width: 215px;
+    margin-bottom: 20px;
+    box-shadow: 6px 9px 20px 0px black;
+}
+
+#img-portfolio {
+    height: 100%;
+}
